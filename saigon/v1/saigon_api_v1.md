@@ -9,7 +9,7 @@ Retrieve a message by its *id*.
 
 + Response 200 (text/plain)
 
-        Hello World!
+        Hello World2
 
 ## Retrieve Message [POST]
 Retrieve a message by its *id*.
